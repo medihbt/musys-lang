@@ -1,0 +1,3 @@
+[submodule "subprojects/musys"]
+	path = subprojects/musys
+	url = https://github.com/medihbt/musys.git
